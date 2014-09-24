@@ -1,5 +1,3 @@
-# above edit
-
 # header
 * git init
 * three stage thinking
